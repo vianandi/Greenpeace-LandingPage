@@ -1,0 +1,7 @@
+form #name,
+#city,
+#email,
+#zip-code,
+#submit-form {
+    display: block;
+}
